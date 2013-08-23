@@ -1,4 +1,7 @@
 ruby-slippers
 =============
+# Ruby on Rails Tutorial: first application
 
-This is me learning ruby, rails, and heroku
+This is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
+
