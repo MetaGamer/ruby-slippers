@@ -4,6 +4,9 @@ ruby '1.9.3'
 
 gem 'rails', '3.2.13'
 
+#downgrade to avoid bug in 0.3.7
+gem 'childprocess', '0.3.6'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
